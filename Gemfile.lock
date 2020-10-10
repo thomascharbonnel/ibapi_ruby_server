@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jdbc-postgres (42.2.6)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  jdbc-postgres
+
+BUNDLED WITH
+   2.1.4
